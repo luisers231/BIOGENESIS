@@ -1,0 +1,7 @@
+{
+  "name": "BioGenesis: Origen y Evolución",
+  "description": "Plataforma educativa interactiva sobre Evolución y Abiogénesis con juegos y actividades avanzadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
